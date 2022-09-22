@@ -1,0 +1,23 @@
+.headerPost {
+  margin-bottom: 4rem;
+
+  h1 {
+    font-size: 3rem;
+    color: var(--heading);
+    margin-bottom: 1.5rem;
+  }
+
+  ul {
+    list-style: none;
+    display: flex;
+    gap: 1.625rem;
+
+    li {
+      font-size: 0.875rem;
+
+      svg {
+        margin-right: 0.5rem;
+      }
+    }
+  }
+}
