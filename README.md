@@ -30,7 +30,7 @@
 - Entre outros.
 
 
-Descrição completa do desafio: [Desafio 01 - Criando um projeto do zero](./docs/Desafio%2001%20-%20Criando%20um%20projeto%20do%20zero.md.md)
+Descrição completa do desafio: [Desafio 01 - Criando um projeto do zero](./docs/Desafio%2001%20-%20Criando%20um%20projeto%20do%20zero.md)
 
 ## 🧭 Como rodar o projeto
 
@@ -65,6 +65,16 @@ npm run slicemachine
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/64bvp2awLuaF1B1N6MNSHa/). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 🧪 Testes
+
+**Para executar os testes, rote:**
+
+```bash
+npm run test
+```
+
+<img src=".github/npm-run-test.png" width="100%"/>
 
 
 ## 🚀 Tecnologias

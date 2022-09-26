@@ -318,11 +318,11 @@ Em cada teste, tem uma breve descrição no que sua aplicação deve�
 
 Para esse desafio, temos os seguintes testes:
 
-[Teste components/Header/index.tsx](assets/Teste%20components%20Header%20index%20tsx%20920279f2555c41d49fe9d53f3a99dff3.md)
+[Teste components/Header/index.tsx](assets/Teste%20components%20Header%20index%20tsx.md)
 
-[Testes pages/Home/index.tsx](assets/Testes%20pages%20Home%20index%20tsx%20bea5e4e5547c49619d339f9201af4c5b.md)
+[Testes pages/Home/index.tsx](assets/Testes%20pages%20Home%20index%20tsx.md)
 
-[Testes pages/post/[slug].tsx](assets/Testes%20pages%20post%20%5Bslug%5D%20tsx%2034e4f512cdbb4570a80f0fabd42fc555.md)
+[Testes pages/post/[slug].tsx](assets/Testes%20pages%20post%20%5Bslug%5D%20tsx.md)
 
 ## Como deve ficar a aplicação ao final?
 
