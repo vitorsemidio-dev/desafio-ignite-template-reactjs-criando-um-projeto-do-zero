@@ -52,7 +52,15 @@ npm install
 npm run dev
 ```
 
-- Acesse o front da aplicação em [http://localhost:3000](http://localhost:5173)
+- Irá executar em [http://localhost:3000](http://localhost:3000)
+
+**Slice Machine**
+
+```bash
+npm run slicemachine
+```
+
+- Irá executar em [http://localhost:9999](http://localhost:9999)
 
 ## 🔖 Layout
 
