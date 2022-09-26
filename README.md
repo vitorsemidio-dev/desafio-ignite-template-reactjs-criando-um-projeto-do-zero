@@ -17,7 +17,7 @@
 
 ## 💻 Apresentação
 
-**Space Traveling** é uma aplicação onde de blog onde consome dados vindo do Prismic.
+**Space Traveling** é um blog que consome dados de posts publicados no Prismic.
 
 - Estilizações global, comum e individuais;
 - Importação de fontes Google;
