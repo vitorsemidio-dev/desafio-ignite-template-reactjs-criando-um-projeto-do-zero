@@ -16,6 +16,11 @@
 
   a {
     color: var(--highlight);
+    transition: all 300ms;
+    &:hover {
+      filter: brightness(1.2);
+      text-decoration: underline;
+    }
   }
 
   strong {
@@ -29,5 +34,15 @@
     li {
       margin: 0.5rem 0;
     }
+  }
+
+  img {
+    width: 100%;
+  }
+
+  iframe {
+    width: 100%;
+    height: unset !important;
+    aspect-ratio: 16 / 9;
   }
 }
